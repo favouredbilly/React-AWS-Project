@@ -10,6 +10,11 @@
       "StackName": "amplify-kineteco-dev-133152",
       "StackId": "arn:aws:cloudformation:us-east-1:517722594464:stack/amplify-kineteco-dev-133152/a42a8c50-4607-11ec-9e55-12552e5f43ef",
       "AmplifyAppId": "d1s20lmkbwsj24"
+    },
+    "categories": {
+      "auth": {
+        "kineteco48baaef4": {}
+      }
     }
   }
 }
